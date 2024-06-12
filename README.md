@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h2>My tech stack</h2>
+
+![Kotlin](https://img.shields.io/badge/-KOTLIN-F05032%3F?logo=kotlin&logoColor=white&color=purple)
+![Android](https://img.shields.io/badge/-ANDROID-F05032%3F?logo=ANDROID&logoColor=white)
+
+
 <!--
 **hyuksanglee/hyuksanglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
